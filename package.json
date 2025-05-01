@@ -1,0 +1,23 @@
+{
+  "name": "my-testerku",
+  "version": "1.0.0",
+  "description": "API project without frontend",
+  "main": "pages/api/index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [
+    "api",
+    "nodejs",
+    "vercel"
+  ],
+  "author": "random-bos",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  }
+}
